@@ -7,6 +7,7 @@ import aiohttp
 import requests
 import json
 import like_pb2
+import uid_generator_pb2
 import visit_count_pb2
 from google.protobuf.message import DecodeError
 from collections import OrderedDict
